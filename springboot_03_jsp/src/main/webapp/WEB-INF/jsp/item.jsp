@@ -8,6 +8,7 @@
 <title>SpringBoot_03_jsp</title>
 </head>
 <body>
+	<hr/>
 	<ul>
 		<c:forEach items="${itemArr}" var="item">
 			<li>${item}</li>
